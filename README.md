@@ -45,6 +45,46 @@ A user-friendly design is crucial in a booking system for the following reasons:
 - **Building Trust**: A professional and polished design instills confidence in users, making them more likely to return for future bookings.
 - **Accessibility**: Ensures that the system is usable for individuals with varying abilities, broadening the user base and promoting inclusivity.
 
+### Design Properties
+
+#### Color Styles
+The following color palette is used in the design mock-up:
+
+- **Primary Color**: #FF385C (Bright Pink)
+- **Secondary Color**: #008489 (Teal Green)
+- **Neutral Colors**:
+  - White: #FFFFFF
+  - Light Gray: #F7F7F7
+  - Dark Gray: #333333
+- **Alert Colors**:
+  - Success: #00A699 (Green)
+  - Error: #D93900 (Red)
+
+#### Typography
+The typography styles in the mock-up include:
+
+- **Font Family**: Inter (default font family for all text)
+- **Font Weights**:
+  - Light: 300
+  - Regular: 400
+  - Medium: 500
+  - Bold: 700
+- **Font Sizes**:
+  - Headings: 32px, 24px, 20px
+  - Subheadings: 18px
+  - Body Text: 16px
+  - Small Text: 14px
+
+#### Importance of Identifying Design Properties
+Understanding and identifying the design properties in a mock-up is essential for several reasons:
+1. **Consistency**: Ensures a uniform look and feel across the application, maintaining the brand identity.
+2. **Ease of Implementation**: Provides developers with clear guidelines to replicate the design in code accurately.
+3. **Efficiency**: Speeds up the development process by eliminating guesswork related to styles and layouts.
+4. **Collaboration**: Facilitates better communication between designers and developers by using shared terminologies and references.
+5. **Accessibility**: Helps in applying design standards that improve usability for all users, including those with visual impairments.
+
+
+
 ## Getting Started
 Clone this repository and follow the instructions to run the project locally.
 
